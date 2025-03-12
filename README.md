@@ -80,6 +80,4 @@ During the final weeks, students will work on a **machine learning project** in 
 Assistant Professor, **Physics Department, Zarqa University**  
 Email: **mmardini@zu.edu.jo**  
 
----
 
-This description is structured for your **GitHub repo**, making it easy for students to understand the course structure. Let me know if you'd like any modifications! 🚀
