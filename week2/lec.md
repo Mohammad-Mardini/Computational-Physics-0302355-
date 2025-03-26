@@ -1,5 +1,7 @@
 **Lecture Title:** Introduction to Jupyter Notebook and Scientific Libraries in Python  
 
+---
+
 
 ## Getting Started with Jupyter Notebook**
 - **What is Jupyter Notebook?**
@@ -25,6 +27,8 @@
   - Add and format text in markdown cells (headings, bullet points, equations)
   - Open Google Colab and create a new notebook
 
+
+
 ### **Essential Features of Google Colab:**
 - **Cloud-based execution:** No need to install Python locally
 - **GPU and TPU support:** Accelerate deep learning and scientific computations
@@ -35,8 +39,9 @@
 - **File handling:** Easy upload and download of files, access to Google Drive
 - **Magic commands:** Similar to Jupyter, includes `%timeit`, `%matplotlib inline`, etc.
 
+---
 
-## Introduction to Scientific Libraries (30 min)**
+## Introduction to Scientific Libraries**
 ### **NumPy (Numerical Computing)**
 - Why NumPy? Performance benefits over lists
 - Creating NumPy arrays and performing basic operations
