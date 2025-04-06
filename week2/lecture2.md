@@ -3,7 +3,7 @@
 ---
 
 
-## Getting Started with Jupyter Notebook**
+## Getting Started with Jupyter Notebook
 - **What is Jupyter Notebook?**
   - An interactive computing environment for Python and other languages
   - Used for coding, data visualization, and documentation in one place
