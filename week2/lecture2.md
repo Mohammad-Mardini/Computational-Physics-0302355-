@@ -41,7 +41,7 @@
 
 ---
 
-## Introduction to Scientific Libraries**
+## Introduction to Scientific Libraries
 ### **NumPy (Numerical Computing)**
 - Why NumPy? Performance benefits over lists
 - Creating NumPy arrays and performing basic operations
