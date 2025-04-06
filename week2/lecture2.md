@@ -65,7 +65,7 @@
 - Plot a simple graph using Matplotlib
 - Load a CSV file into Pandas and explore the dataset
 
-## Recommended learning resources: **
+## Recommended learning resources:
   - Jupyter Notebook documentation: [https://jupyter.org/](https://jupyter.org/)
   - Google Colab: [https://colab.research.google.com](https://colab.research.google.com)
   - NumPy documentation: [https://numpy.org/doc/](https://numpy.org/doc/)
