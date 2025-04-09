@@ -79,7 +79,7 @@ During the final weeks, students will work on a **machine learning project** in 
 👨‍🏫 **Dr. Mohammad Mardini**  
 Office: **306D**  
 Assistant Professor, **Physics Department, Zarqa University**  
-Email: **mmardini@zu.edu.jo** 
+Email: **mmardini@zu.edu.jo**  
 Webpage:[https://mohammad-mardini.github.io](https://mohammad-mardini.github.io)
 
 
