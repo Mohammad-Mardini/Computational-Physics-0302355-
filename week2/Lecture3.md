@@ -169,21 +169,6 @@ $$
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Part 4: Hands-on Simulation – Motion Under Gravity
 
 ### 🎯 Objective:
@@ -193,21 +178,24 @@ Numerically simulate an object falling under gravity using **Euler's method**.
 
 ### 🧠 Physics Recap:
 
+
 - Gravitational acceleration:  
 
-  $$
+$$
   g = 9.81 \ \text{m/s}^2
-  $$
+$$
 
 - Velocity as a function of time:
-  $$
+  
+$$
   v(t) = v_0 + g \cdot t
-  $$
+$$
 
 - Position as a function of time:
-  $$
+  
+$$
   y(t) = y_0 + v_0 \cdot t + \frac{1}{2} g \cdot t^2
-  $$
+$$
 
 ---
 
@@ -271,28 +259,32 @@ Simulate the full trajectory of a projectile launched at an angle with an initia
 
 ## 🔬 Physics Recap:
 
+
+
+
 - Position as a function of time:
-  $$
+  
+$$
   y(t) = y_0 + v_0 \cdot t + \frac{1}{2} g \cdot t^2
-  $$
+$$
 
 
 - Horizontal motion (constant velocity):
 
-  $$
+$$
   x(t) = v_0 \cos(\theta) \cdot t
-  $$
+$$
 
 - Vertical motion (accelerated):
 
-  $$
+$$
   y(t) = v_0 \sin(\theta) \cdot t - \frac{1}{2}gt^2
-  $$
+$$
 
 Where:
 - \( v_0 \) is the initial speed
-- \( \theta \) is the launch angle
-- \( g = 9.81 \, \text{m/s}^2 \)
+- \( $$\theta$$ \) is the launch angle
+- \( g = 9.81 \, $$\text{m/s}^2$$ \)
 
 ---
 
@@ -336,29 +328,3 @@ plt.xlim(left=0)
 plt.show()
 ```
 
----
-
-## ✅ Student Tasks:
-
-### 1. Modify the code to try different angles and speeds:
-- Try \( \theta = 30^\circ \), \( 60^\circ \), etc.
-- Compare how the trajectory changes.
-
-### 2. Find the launch angle that gives:
-- Maximum **horizontal range**
-- Maximum **height**
-
-### 3. Add a target:
-- Suppose a target is placed at \( x = 50 \, \text{m} \), \( y = 0 \)
-- Try different \( v_0 \) and \( \theta \) to hit the target
-
----
-
-## 🧠 Bonus (Optional):
-Include **air resistance**:
-- Add a drag force: \( F_{\text{drag}} = -k \cdot v \)
-- Simulate using Euler or Runge-Kutta methods
-
----
-
-Let me know if you'd like this saved as a `.ipynb` notebook, a PDF, or want the air resistance version too!
