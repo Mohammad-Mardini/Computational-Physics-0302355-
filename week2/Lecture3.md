@@ -46,9 +46,7 @@ inv_A = np.linalg.inv(A)
 ### 🧮 Example: Calculate the following integration
 
 $$
-\[
-\int_0^1 x^2 \, dx = \frac{1}{3}
-\]
+\int_0^1 x^2 \, dx 
 $$
 
 ```python
