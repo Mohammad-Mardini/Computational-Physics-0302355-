@@ -75,9 +75,9 @@ During the final weeks, students will work on a **machine learning project** in 
 
 ---
 
-## **Instructor**  
-👨‍🏫 **Dr. Mohammad Mardini** 
-Office: **306H**
+## **Instructor info**  
+👨‍🏫 **Dr. Mohammad Mardini**  
+Office: **306D**  
 Assistant Professor, **Physics Department, Zarqa University**  
 Email: **mmardini@zu.edu.jo**  
 
