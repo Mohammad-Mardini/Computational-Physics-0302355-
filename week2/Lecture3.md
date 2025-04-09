@@ -288,7 +288,7 @@ Where:
 
 ---
 
-## 🧑‍💻 Python Code (Full 2D Simulation):
+## 🧑‍💻 Python Code :
 
 ```python
 import numpy as np
