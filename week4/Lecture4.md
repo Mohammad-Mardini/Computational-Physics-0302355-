@@ -56,13 +56,13 @@ from sklearn.metrics import mean_squared_error, r2_score
 # ----------------------------
 # Step 1: Load Real Dataset
 # ----------------------------
-df = pd.read_csv("data/housing_data.csv")
+df = pd.read_csv("data.csv")
 
 # ----------------------------
 # Step 2: Define Features and Target
 # ----------------------------
-X = df[['Size (sqft)', 'Location Score']]
-y = df['Price ($)']
+X = df[['Size', 'Location']]
+y = df['Price']
 
 # ----------------------------
 # Step 3: Train-Test Split
