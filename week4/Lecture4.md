@@ -98,8 +98,8 @@ print(f"Predicted Price for 2600 sqft, Location Score 4: ${predicted_price[0]:,.
 # Step 7: Visualization
 # ----------------------------
 plt.figure(figsize=(8,6))
-scatter = plt.scatter(df['Size (sqft)'], df['Price ($)'],
-                      c=df['Location Score'], cmap='viridis', s=100, edgecolor='k')
+scatter = plt.scatter(df['Size'], df['Price'],
+                      c=df['Location'], cmap='viridis', s=100, edgecolor='k')
 plt.xlabel('Size (sqft)')
 plt.ylabel('Price ($)')
 plt.title('House Prices by Size and Location Score')
